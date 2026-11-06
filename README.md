@@ -10,7 +10,7 @@
 </p>
 
 <!-- START:profile-gif -->
-<img align="right" src="https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif" width="300" alt="Animated GIF selected by Aditya" />
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Animated developer working at a computer while the room catches fire" />
 <!-- END:profile-gif -->
 
 <h2>⚡ A Few Quick Facts</h2>
@@ -94,9 +94,10 @@
 <!-- START_SECTION:ascii_graph -->
 
 ```text
-    8 commits ┤                                                                     ╭─
-    7 commits ┤                                                                  ╭──╯
-    6 commits ┤                                                              ╭───╯
+    9 commits ┤                                                                     ╭─
+    8 commits ┤                                                                   ╭─╯
+    7 commits ┤                                                                ╭──╯
+    6 commits ┤                                                              ╭─╯
     5 commits ┤                                                            ╭─╯
     4 commits ┤                                                         ╭──╯
     3 commits ┤                                                        ╭╯
