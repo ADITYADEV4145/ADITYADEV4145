@@ -10,7 +10,7 @@
 </p>
 
 <!-- START:profile-gif -->
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Animated developer working at a computer while the room catches fire" />
+<img align="right" src="./assets/gifs/hacking-in-progress.gif" width="300" alt="Hacking in progress on a computer workstation" />
 <!-- END:profile-gif -->
 
 <h2>⚡ A Few Quick Facts</h2>

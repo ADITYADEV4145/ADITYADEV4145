@@ -3,7 +3,9 @@
 The workflow runs at 00:17, 06:17, 12:17, and 18:17 UTC, plus manual runs from
 Actions → Rotate profile GIF → Run workflow. GitHub can delay scheduled runs.
 
-Four developer GIFs rotate in sequence, without immediate repeats. Only the
+Six GIFs rotate in sequence, without immediate repeats: the original four,
+the attached "Hacking in progress" GIF stored in assets/gifs/, and Aditya's
+additional Giphy selection. A full scheduled cycle takes 36 hours. Only the
 marked GIF block in README.md changes during GIF rotation. The next URL is checked for a valid GIF
 response before writing. An unavailable image fails the run and leaves the
 current README unchanged.

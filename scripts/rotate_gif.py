@@ -13,6 +13,10 @@ GIFS = [
      'Animated programmer working at a computer'),
     ('https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif',
      'Animated developer illustration'),
+    ('./assets/gifs/hacking-in-progress.gif',
+     'Hacking in progress on a computer workstation'),
+    ('https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif',
+     'Animated GIF selected by Aditya'),
 ]
 START = '<!-- START:profile-gif -->'
 END = '<!-- END:profile-gif -->'
@@ -36,6 +40,15 @@ def rotate(content):
 
 
 def check_gif(url):
+    if url.startswith('./'):
+        root = Path(__file__).resolve().parents[1]
+        path = (root / url).resolve()
+        if not path.is_relative_to(root):
+            raise ValueError('GIF path must stay inside the repository.')
+        with path.open('rb') as image:
+            if image.read(6) not in (b'GIF87a', b'GIF89a'):
+                raise ValueError('The local image has an invalid GIF header.')
+        return
     request = Request(url, headers={'User-Agent': 'AdityaProfile-GIF-Rotation/1.0'})
     with urlopen(request, timeout=20) as response:
         if response.headers.get_content_type() != 'image/gif':

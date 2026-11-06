@@ -1,6 +1,6 @@
 import unittest
 from pathlib import Path
-from rotate_gif import GIFS, START, END, rotate
+from rotate_gif import GIFS, START, END, rotate, check_gif
 
 
 class RotationTests(unittest.TestCase):
@@ -31,6 +31,11 @@ class RotationTests(unittest.TestCase):
             content = content.replace(url, 'https://example.com/unknown.gif')
         with self.assertRaises(ValueError):
             rotate(content)
+
+    def test_attached_gif_is_valid_and_stays_in_repository(self):
+        check_gif('./assets/gifs/hacking-in-progress.gif')
+        with self.assertRaises(ValueError):
+            check_gif('./../../outside.gif')
 
 
 if __name__ == '__main__':
