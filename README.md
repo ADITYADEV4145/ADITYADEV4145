@@ -87,11 +87,22 @@
 
 </details>
 
-<h2>📊 GitHub Activity</h2>
+<h2 align="left">Coding Activity</h2>
 
-<p align="left">
-  <a href="https://github.com/ADITYADEV4145"><img src="https://github-readme-stats.vercel.app/api?username=ADITYADEV4145&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;hide=stars&amp;rank_icon=github" alt="Aditya's public GitHub statistics" /></a>
-</p>
+> Cumulative GitHub commit contributions over the last seven days (UTC). Updated every six hours.
+
+<!-- START_SECTION:ascii_graph -->
+
+```text
+    3 commits ┤                                                           ╭───────────
+    2 commits ┤                                                       ╭───╯
+    1 commits ┤                                                    ╭──╯
+    0 commits ┤────────────────────────────────────────────────────╯
+              ┼─────────┬─────────┬─────────┬─────────┬─────────┬─────────┬─────────┤
+              -7d      -6d       -5d       -4d       -3d       -2d       -1d      now
+```
+
+<!-- END_SECTION:ascii_graph -->
 
 [View my contribution activity](https://github.com/ADITYADEV4145) · [Browse all repositories](https://github.com/ADITYADEV4145?tab=repositories)
 

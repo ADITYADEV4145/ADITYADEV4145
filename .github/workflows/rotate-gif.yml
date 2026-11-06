@@ -26,7 +26,12 @@ jobs:
       - name: Rotate to the next GIF
         run: python3 scripts/rotate_gif.py
 
-      - name: Commit the changed GIF as Aditya
+      - name: Refresh ASCII coding activity
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/update_activity.py
+
+      - name: Commit the profile updates as Aditya
         env:
           DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
           AUTHOR_NAME: ADITYA PUNJANI
@@ -36,9 +41,9 @@ jobs:
           git config user.email "$AUTHOR_EMAIL"
           git add README.md
           if git diff --cached --quiet -- README.md; then
-            echo "No GIF change; nothing to commit."
+            echo "No profile changes; nothing to commit."
             exit 0
           fi
-          git commit -m "Rotate profile GIF" -- README.md
+          git commit -m "Refresh profile GIF and coding activity" -- README.md
           git pull --rebase origin "$DEFAULT_BRANCH"
           git push origin "HEAD:$DEFAULT_BRANCH"

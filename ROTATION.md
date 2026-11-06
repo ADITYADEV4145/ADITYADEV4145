@@ -4,9 +4,17 @@ The workflow runs at 00:17, 06:17, 12:17, and 18:17 UTC, plus manual runs from
 Actions → Rotate profile GIF → Run workflow. GitHub can delay scheduled runs.
 
 Four developer GIFs rotate in sequence, without immediate repeats. Only the
-marked GIF block in README.md changes. The next URL is checked for a valid GIF
+marked GIF block in README.md changes during GIF rotation. The next URL is checked for a valid GIF
 response before writing. An unavailable image fails the run and leaves the
 current README unchanged.
+
+The same workflow also refreshes the ASCII Coding Activity graph in README.md.
+It plots cumulative GitHub commit contributions for the last seven UTC dates,
+including the current partial day, from a zero baseline at -7d. It uses GitHub's
+GraphQL commit-contribution data rather than estimating coding hours. The graph
+needs no external image host. API errors or incomplete results fail the run
+and retain the previous graph. GitHub's contribution rules determine which
+commits qualify; these totals are not every commit on every branch.
 
 Each successful rotation creates a real README-change commit, authored and
 committed as ADITYA PUNJANI using the account's GitHub noreply address. There
