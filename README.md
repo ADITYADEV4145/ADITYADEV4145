@@ -1,4 +1,4 @@
-<h1 align="left" id="aditya-title">👋 Hey, I'm Aditya Punjani</h1>
+<h1 align="left" id="aditya-title">👋 Hey, I'm Aditya</h1>
 <h3 align="left">AI tooling · Quantitative systems · Full-stack development</h3>
 
 <p>I build tools that make complex systems easier to understand and work with — from sandboxing AI coding agents to matching orders, simulating financial risk, and building interactive web applications.</p>
