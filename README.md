@@ -10,7 +10,7 @@
 </p>
 
 <!-- START:profile-gif -->
-<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Animated programmer working at a computer" />
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" alt="Animated developer illustration" />
 <!-- END:profile-gif -->
 
 <h2>⚡ A Few Quick Facts</h2>
@@ -98,8 +98,8 @@
    18 commits ┤
    16 commits ┤
    14 commits ┤
-   12 commits ┤                                                                      │
-   10 commits ┤                                                           ╭──────────╯
+   12 commits ┤                                                                 ╭─────
+   10 commits ┤                                                           ╭─────╯
     8 commits ┤                                                      ╭────╯
     6 commits ┤                                                   ╭──╯
     4 commits ┤                                              ╭────╯
