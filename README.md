@@ -10,7 +10,7 @@
 </p>
 
 <!-- START:profile-gif -->
-<img align="right" src="./assets/gifs/hacking-in-progress.gif" width="300" alt="Hacking in progress on a computer workstation" />
+<img align="right" src="https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif" width="300" alt="Animated GIF selected by Aditya" />
 <!-- END:profile-gif -->
 
 <h2>⚡ A Few Quick Facts</h2>
@@ -95,16 +95,16 @@
 
 ```text
    40 commits ┤
-   36 commits ┤                                                             ╭─────────
-   32 commits ┤                                            ╭────────────────╯
-   28 commits ┤                               ╭────────────╯
-   24 commits ┤                      ╭────────╯
-   20 commits ┤                   ╭──╯
-   16 commits ┤                 ╭─╯
-   12 commits ┤               ╭─╯
-    8 commits ┤             ╭─╯
-    4 commits ┤           ╭─╯
-    0 commits ┤───────────╯
+   36 commits ┤                                                        ╭──────────────
+   32 commits ┤                                     ╭──────────────────╯
+   28 commits ┤                        ╭────────────╯
+   24 commits ┤              ╭─────────╯
+   20 commits ┤          ╭───╯
+   16 commits ┤       ╭──╯
+   12 commits ┤      ╭╯
+    8 commits ┤   ╭──╯
+    4 commits ┤  ╭╯
+    0 commits ┤──╯
               ┼─────────┬─────────┬─────────┬─────────┬─────────┬─────────┬─────────┤
               -7d      -6d       -5d       -4d       -3d       -2d       -1d      now
 ```
