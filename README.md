@@ -10,7 +10,7 @@
 </p>
 
 <!-- START:profile-gif -->
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Animated developer working at a computer while the room catches fire" />
+<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Animated coding and typing scene" />
 <!-- END:profile-gif -->
 
 <h2>⚡ A Few Quick Facts</h2>
@@ -95,11 +95,11 @@
 
 ```text
    30 commits ┤
-   27 commits ┤
-   24 commits ┤                                                                    ╭──
-   21 commits ┤                                                                  ╭─╯
-   18 commits ┤                                                               ╭──╯
-   15 commits ┤                                                           ╭───╯
+   27 commits ┤                                                                     ╭─
+   24 commits ┤                                                                   ╭─╯
+   21 commits ┤                                                                 ╭─╯
+   18 commits ┤                                                              ╭──╯
+   15 commits ┤                                                           ╭──╯
    12 commits ┤                                                ╭──────────╯
     9 commits ┤                                 ╭──────────────╯
     6 commits ┤                  ╭──────────────╯
