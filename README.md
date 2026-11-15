@@ -10,7 +10,7 @@
 </p>
 
 <!-- START:profile-gif -->
-<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Animated programmer working at a computer" />
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" alt="Animated developer illustration" />
 <!-- END:profile-gif -->
 
 <h2>⚡ A Few Quick Facts</h2>
@@ -94,17 +94,17 @@
 <!-- START_SECTION:ascii_graph -->
 
 ```text
-   30 commits ┤                                                            ╭──────────
-   27 commits ┤                                                          ╭─╯
-   24 commits ┤                                                         ╭╯
-   21 commits ┤                                                       ╭─╯
-   18 commits ┤                                                     ╭─╯
-   15 commits ┤                                                    ╭╯
-   12 commits ┤                                                 ╭──╯
-    9 commits ┤                                      ╭──────────╯
-    6 commits ┤                       ╭──────────────╯
-    3 commits ┤        ╭──────────────╯
-    0 commits ┤────────╯
+   40 commits ┤
+   36 commits ┤
+   32 commits ┤                                                            ╭──────────
+   28 commits ┤                                                          ╭─╯
+   24 commits ┤                                                        ╭─╯
+   20 commits ┤                                                      ╭─╯
+   16 commits ┤                                                    ╭─╯
+   12 commits ┤                                               ╭────╯
+    8 commits ┤                              ╭────────────────╯
+    4 commits ┤           ╭──────────────────╯
+    0 commits ┤───────────╯
               ┼─────────┬─────────┬─────────┬─────────┬─────────┬─────────┬─────────┤
               -7d      -6d       -5d       -4d       -3d       -2d       -1d      now
 ```
