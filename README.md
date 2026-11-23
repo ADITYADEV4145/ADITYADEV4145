@@ -10,7 +10,7 @@
 </p>
 
 <!-- START:profile-gif -->
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Animated developer working at a computer while the room catches fire" />
+<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Animated coding and typing scene" />
 <!-- END:profile-gif -->
 
 <h2>⚡ A Few Quick Facts</h2>
@@ -94,16 +94,16 @@
 <!-- START_SECTION:ascii_graph -->
 
 ```text
-  270 commits ┤                                                                     ╭─
-  243 commits ┤                                                                ╭────╯
-  216 commits ┤                                                            ╭───╯
-  189 commits ┤                                                         ╭──╯
-  162 commits ┤                                                      ╭──╯
-  135 commits ┤                                                  ╭───╯
-  108 commits ┤                                                ╭─╯
-   81 commits ┤                                              ╭─╯
-   54 commits ┤                                           ╭──╯
-   27 commits ┤                                         ╭─╯
+  370 commits ┤                                                                     ╭─
+  333 commits ┤                                                                   ╭─╯
+  296 commits ┤                                                                ╭──╯
+  259 commits ┤                                                              ╭─╯
+  222 commits ┤                                                          ╭───╯
+  185 commits ┤                                                       ╭──╯
+  148 commits ┤                                                   ╭───╯
+  111 commits ┤                                                ╭──╯
+   74 commits ┤                                             ╭──╯
+   37 commits ┤                                         ╭───╯
     0 commits ┤─────────────────────────────────────────╯
               ┼─────────┬─────────┬─────────┬─────────┬─────────┬─────────┬─────────┤
               -7d      -6d       -5d       -4d       -3d       -2d       -1d      now
